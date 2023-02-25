@@ -1,0 +1,11 @@
+
+@media (max-width: 980px) {
+.sidebar-header img {
+    max-width: 200px;
+}
+.nav-link {
+    padding: 0px 1rem;
+}
+  .wrapper{    background-size: 70%;}
+  .service-block .col-lg-3{padding: 0 20%;}
+}
